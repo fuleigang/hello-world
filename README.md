@@ -19,3 +19,5 @@ just test github
         return allRegiontList;
 
     }
+下载软件
+https://github.com/shadowsocks/shadowsocks-windows/releases
